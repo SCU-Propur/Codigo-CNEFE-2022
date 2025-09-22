@@ -1,6 +1,6 @@
 # Código CNEFE — Reproducible pipelines for CNEFE 2022
 
-## By Ana Luisa Maffini
+## By Ana Luisa Maffini 
 
 Tools to parse, classify, and aggregate Brazil’s **CNEFE** address data. The repo harmonizes the non-spatial **2010** release and the **2022** GeoJSON points into a common **“wide”** format (one-hot columns), plus block-face and census-sector summaries.
 
